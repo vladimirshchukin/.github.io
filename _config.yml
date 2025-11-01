@@ -27,10 +27,10 @@ author:
   name             : "Vladimir Shchukin"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Prague, the Czech Republic"
+  university         : "CERGE-EI, Charles University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "vladimir.shchukin@cerge-ei.cz" 
 
   # Academic websites
   academia         : # URL
