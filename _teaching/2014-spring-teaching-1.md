@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: false
 title: "Probability Theory and Mathematical Statistics"
 type: "Graduate course (In English)"
 venue: "HSE University"
