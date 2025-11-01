@@ -1,7 +1,6 @@
 
 
 main:
-
   - title: "CV"
     url: /cv/
 
@@ -9,7 +8,7 @@ main:
     url: /publications/
 
   - title: "Teaching"
-   url: /teaching/    
+    url: /teaching/    
     
 
   
