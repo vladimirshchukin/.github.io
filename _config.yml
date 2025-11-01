@@ -54,7 +54,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/vladimir-shchukin-9091071b6/" # Username
+  linkedin         : "vladimir-shchukin-9091071b6" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
