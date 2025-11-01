@@ -1,7 +1,6 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-share: false
 ---
 
 # Average teaching evaluation:
@@ -12,7 +11,7 @@ HSE University (2020-2021 academic year): 4.42 / 5
 
 Financial University under the Government of the Russian Federation (2020 year): 4.67 / 5
 
-#Courses:
+# Courses:
 
 # Microeconomics-3
 Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2024
