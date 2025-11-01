@@ -6,5 +6,8 @@ venue: "HSE University"
 date: 2017-01-01
 location: "City, Country"
 share: false
+redirect_from:
+  -/teaching/
+  -/teaching.html/
 ---
 
