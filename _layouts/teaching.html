@@ -1,0 +1,7 @@
+<h3 class="archive__item-title">
+  {% if item.permalink == false %}
+    {{ item.title }}
+  {% else %}
+    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+  {% endif %}
+</h3>
