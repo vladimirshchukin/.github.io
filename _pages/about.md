@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-"485.jpg"
+
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
   <!-- Left column: text -->
@@ -29,8 +29,9 @@ redirect_from:
 
   <!-- Right column: photo -->
   <div style="flex-shrink: 0;">
-    <img src="{{ 'files/111.jpg| relative_url }}" alt="Vladimir Shchukin" 
-         style="width:220px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.2); object-fit:cover;">
+<img src="{{ '/files/111.jpg' | relative_url }}" alt="Vladimir Shchukin"
+     style="width:220px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.2); object-fit:cover;">
+
   </div>
 
 </div>
