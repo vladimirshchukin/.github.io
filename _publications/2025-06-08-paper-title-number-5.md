@@ -3,7 +3,7 @@ title: "Historical Origins of Human Capital Formation: Empirical Evidence from P
 collection: publications
 category: wprogress
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: ' '
 date: 2024-02-17
 venue: ' '
 
