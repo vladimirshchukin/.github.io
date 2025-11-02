@@ -9,10 +9,7 @@ redirect_from:
 ---
 
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
-
-  <!-- Left column: text -->
-  <div style="flex: 1; min-width: 280px;">
+<
    
     <p>
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
@@ -27,13 +24,9 @@ redirect_from:
       <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
     </p>
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
-  </div>
-
-  <!-- Right column: photo -->
 
 
-</div>
 
-</div>
+
 
 ![image 1](./111.jpg "Image 1")
