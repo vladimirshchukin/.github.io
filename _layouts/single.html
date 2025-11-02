@@ -35,20 +35,14 @@ layout: default
         {% if page.collection == 'teaching' %}
            
       
-    {% elsif page.venue and page.date %}
-      {% assign venue_trimmed = page.venue | strip %}
-      {% if venue_trimmed != "" %}
-         <p>Published in <i>{{ venue_trimmed }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-      {% else %}
-        <p>Published in {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-      {% endif %}
-    {% elsif page.date %}
-      <p class="page__date">
-         <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong>
-        {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
-        {{ page.date | date: "%B %d, %Y" }}
-       </p>
+  {% elsif page.date %}
+     {% assign venue_trimmed = page.venue | strip %}
+     {% if venue_trimmed != "" %}
+        <p>Published in <i>{{ venue_trimmed }}</i>, {{ page.date | date: "%Y" }}</p>
+     {% else %}
+       <!-- No output if venue is blank -->
      {% endif %}
+  {% endif %}
 
      </header>
       {% endunless %}
