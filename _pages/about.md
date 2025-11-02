@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+"485.jpg"
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
   <!-- Left column: text -->
