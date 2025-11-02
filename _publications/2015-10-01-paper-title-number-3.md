@@ -6,7 +6,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ' '
 date: 2022-01-01
 venue: 'Journal of Theoretical Politics'
-citation: 'Shchukin, V., & Arbatli, C. E. (2022). Clientelism and development: Vote-buying meets patronage. Journal of Theoretical Politics, 34(1), 3-34.'
 share: false
 ---
 
