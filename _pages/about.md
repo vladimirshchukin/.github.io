@@ -13,7 +13,7 @@ redirect_from:
 
   <!-- Left column: text -->
   <div style="flex: 1; min-width: 280px;">
-    <h2>Welcome to my webpage!</h2>
+   
     <p>
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
       <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University.
@@ -30,12 +30,9 @@ redirect_from:
   </div>
 
   <!-- Right column: photo -->
-![image 1](./111.jpg "Image 1")
 
-
-    
-  </div>
 
 </div>
 
 
+![image 1](./111.jpg "Image 1")
