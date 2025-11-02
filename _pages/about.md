@@ -32,7 +32,7 @@ redirect_from:
   <!-- Right column: photo -->
   <div style="flex-shrink: 0;">
     <img src="{{ '/111.jpg' | relative_url }}" alt="Vladimir Shchukin"
-         style="width:220px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.2); object-fit:cover;">
+         style="width:220 px; border-radius:10 px; box-shadow:0 2 px 8 px rgba (0,0,0,0.2); object-fit:cover;">
   </div>
 
 </div>
