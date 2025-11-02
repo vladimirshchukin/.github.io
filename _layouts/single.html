@@ -36,17 +36,16 @@ layout: default
            
       
    {% if page.venue and page.date %}
-     <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+     <p>Published in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
    {% elsif page.venue %}
      <p>Published in <i>{{ page.venue }}</i></p>
    {% elsif page.date %}
-     <p>Published in {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+     <p>Published in {{ page.date | date: "%Y" }}</p>
    {% endif %}
 
      
           
-        </header>
-      {% endunless %}
+  
 
       <section class="page__content" itemprop="text">
         {{ content }}
