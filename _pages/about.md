@@ -10,7 +10,11 @@ redirect_from:
 
 
 
-   
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
+
+  <!-- Left column: text -->
+  <div style="flex: 1; min-width: 280px;">
+    <h2>Welcome to my webpage!</h2>
     <p>
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
       <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University.
@@ -24,7 +28,15 @@ redirect_from:
       <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
     </p>
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
+  </div>
 
+  <!-- Right column: photo -->
+  <div style="flex-shrink: 0;">
+    <img src="./111.jpg" alt="Vladimir Shchukin" 
+         style="width:220px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.2); object-fit:cover;">
+  </div>
+
+</div>
 
 
 
