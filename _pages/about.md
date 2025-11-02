@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics and Econometrics at [CERGE-EI,](https://cerge-ei.cz/) Charles University.
 
 <p>
   I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
