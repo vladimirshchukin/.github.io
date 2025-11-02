@@ -22,7 +22,8 @@ redirect_from:
     </p>
     <p>
       <strong>Primary fields:</strong> Political Economy, Economic Growth<br>
-      
+    </p>
+    <p>
       <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
     </p>
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
