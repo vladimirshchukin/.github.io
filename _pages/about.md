@@ -11,8 +11,8 @@ redirect_from:
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
   <!-- Left column: text -->
-  <div style="flex: 1; min-width: 280px; style="margin-top: 30px;">
-    <p>
+  <div style="flex: 1; min-width: 280px;">
+    <p style="margin-top: 30px;">
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
       <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University.
     </p>
