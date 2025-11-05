@@ -31,7 +31,7 @@ redirect_from:
 
   <!-- Right column: photo -->
   <div style="flex-shrink: 0; margin-top:-40px;">
-     <img src="./111.jpg" alt="Vladimir Shchukin" 
+     <img src="./1.jpg" alt="Vladimir Shchukin" 
          style="width:350px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.2); object-fit:cover;">
   </div>
 
