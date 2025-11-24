@@ -1,6 +1,6 @@
 ---
 title: "Political Economy of Industrialization (Job market paper)"
-collection: publications
+collection: research
 category: wpapers
 permalink: /research/2024-02-17-paper-title-number-4
 excerpt: ''
