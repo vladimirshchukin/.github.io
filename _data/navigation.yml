@@ -1,0 +1,14 @@
+
+
+main:
+  - title: "CV"
+    url: files/Shchukin. CV.pdf
+
+  - title: "Research"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+    
+
+  
